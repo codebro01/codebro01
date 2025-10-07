@@ -130,7 +130,7 @@ A futuristic, glassmorphic agency landing page.
 
 ### ⚡ GitHub Stats  
 
-![CodeBro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebro&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebro&layout=compact&theme=radical)  
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=codebro01&count_private=true&show_icons=true)](https://github.com/codebr01)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebro01&layout=compact&theme=radical)  
 
 ---
