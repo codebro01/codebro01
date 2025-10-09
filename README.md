@@ -23,6 +23,7 @@ I’m all about writing code that’s elegant, secure, and easy to maintain — 
 - **Postgresql** (Drizzle ORM / TypeORM)  
 - **RESTful APIs**, **OAuth**,  **JWT Authentication**, **bcrypt**, **multer**, **Cloudinary SDK**  
 - **Error Handling & Custom Middleware Architecture**,
+- **Payment Flow Integration (Flutterwave / Paystack / Stripe)**
 - **Micro-services**
 
 ### 🧰 Tools & Utilities  
@@ -42,7 +43,7 @@ I’m all about writing code that’s elegant, secure, and easy to maintain — 
 
 ## 🏗️ Featured Projects  
 
-### 🕊️ Church Management System  
+### 🕊️ Church Content Management System  
 A full-featured MERN app for managing church activities, events, and media.  
 - Upload and manage sermons (audio + images) via **Cloudinary**  
 - Secure **Admin Dashboard** with full CRUD functionality  
