@@ -1,6 +1,6 @@
 #  Hey there, I'm Dammy!  
 
-### 💻 Full Stack Developer |  Problem Solver | Tech Visionary | Mathematician  
+### Full Stack Developer | Javascript Developer |  Problem Solver | Tech Visionary | Mathematician | Teacher  
 
 I’m a **Web developer** who loves building **scalable, functional, and visually engaging web apps**.  
 With a focus on the both **Frontend and Backend**, I bring ideas to life with clean architecture, reusable components, and efficient APIs.  
