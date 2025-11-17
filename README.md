@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Dammy!  
+#  Hey there, I'm Dammy!  
 
-### 💻 Full Stack Developer | 🧠 Problem Solver | 🚀 Tech Visionary  
+### 💻 Full Stack Developer |  Problem Solver | Tech Visionary | Mathematician  
 
 I’m a **Web developer** who loves building **scalable, functional, and visually engaging web apps**.  
 With a focus on the both **Frontend and Backend**, I bring ideas to life with clean architecture, reusable components, and efficient APIs.  
@@ -8,16 +8,16 @@ I’m all about writing code that’s elegant, secure, and easy to maintain — 
 
 ---
 
-## ⚙️ Tech Stack & Tools  
+##  Tech Stack & Tools  
 
-### 🧩 Frontend  
+###  Frontend  
 - **Next js**
 - **React.js**, **React Router**, **Hooks**, **Context API** , **Zustand**
 - **Redux Toolkit**  
 - **Vite**, **Material UI**, **Joy UI**, **TailwindCSS**  
 - **Axios**, **Framer Motion**, **React Icons**, **ShadCN/UI**, **Material UI**, **Tailwind CSS**
 
-### 🧠 Backend  
+###  Backend  
 - **Node.js**, **Express.js**, **Nest JS**  
 - **MongoDB** (Mongoose ODM)
 - **Postgresql** (Drizzle ORM / TypeORM)  
@@ -26,7 +26,7 @@ I’m all about writing code that’s elegant, secure, and easy to maintain — 
 - **Payment Flow Integration (Flutterwave / Paystack / Stripe)**
 - **Micro-services**
 
-### 🧰 Tools & Utilities  
+###  Tools & Utilities  
 - **Git & GitHub**, **Postman**,**Insomnia**, **VS Code**, **Render**, **Netlify**, **Vercel** 
 - **dotenv**, **Nodemon**, **ESLint**, **Prettier**  
 - **Figma** (UI/UX structure), **Filmora** (for content creation)
@@ -34,16 +34,16 @@ I’m all about writing code that’s elegant, secure, and easy to maintain — 
 
 ---
 
-## 🧑‍💻 Current Focus  
+##  Current Focus  
 
 - Learning **Goland (For a more scalable backend)**  
 - Expanding my backend design into **modular and reusable microservice structures**
 
 ---
 
-## 🏗️ Featured Projects  
+##  Featured Projects  
 
-### 🕊️ Church Content Management System  
+###  Church Content Management System  
 A full-featured MERN app for managing church activities, events, and media.  
 - Upload and manage sermons (audio + images) via **Cloudinary**  
 - Secure **Admin Dashboard** with full CRUD functionality  
@@ -53,7 +53,7 @@ A full-featured MERN app for managing church activities, events, and media.
 
 ---
 
-### 🏫 School Management System  
+###  School Management System  
 An all-in-one platform for school operations.  
 - Role-based dashboards (Admin, Staff, Student)  
 - Attendance tracking, results, leave management, and feedback  
@@ -64,7 +64,7 @@ An all-in-one platform for school operations.
 
 ---
 
-### 🐔 Poultry Management System  
+###  Poultry Management System  
 A business-focused app for tracking poultry operations.  
 - Manage bird batches, feeds, sales, and production metrics  
 - Expense and profit analysis dashboard  
@@ -75,7 +75,7 @@ A business-focused app for tracking poultry operations.
 
 ---
 
-### 🛍️ E-commerce API  
+###  E-commerce API  
 A robust API powering an online store backend.  
 - Secure user registration & login (JWT Auth)  
 - Product & category CRUD  
@@ -87,7 +87,7 @@ A robust API powering an online store backend.
 
 ---
 
-### 🌐 WebLaunchers (Agency Website)  
+###  WebLaunchers (Agency Website)  
 A futuristic, glassmorphic agency landing page.  
 - Clean UI, smooth animations, conversion-optimized layout  
 - Built with **React**, **Framer Motion**, and **TailwindCSS**  
@@ -97,7 +97,7 @@ A futuristic, glassmorphic agency landing page.
 
 ---
 
-## 🧩 My Core Strengths  
+##  My Core Strengths  
 
 - 🔍 **Problem Solver:** I enjoy debugging complex logic and finding clean, efficient solutions.  
 - 🧠 **Deep Learner:** I don’t just use tools — I understand how they work under the hood.  
@@ -108,28 +108,28 @@ A futuristic, glassmorphic agency landing page.
 
 ---
 
-## 🚀 Future Goals  
+##  Future Goals  
 
 - Merge **AI, robotics, and web development** for practical innovation  
 
 ---
 
-## 💬 Let’s Connect  
+##  Let’s Connect  
 
-- 🐙 GitHub: [github.com/codebro](https://github.com/codebro01)  
-- 🐦 Twitter/X: *(https://x.com/_codebro)*  
-- 📧 Email: *(samsondamilola.99@gmail.com)*  
+-  GitHub: [github.com/codebro](https://github.com/codebro01)  
+-  Twitter/X: *(https://x.com/_codebro)*  
+-  Email: *(samsondamilola.99@gmail.com)*  
 
 ---
 
-## 🏁 Favorite Quote  
+##  Favorite Quote  
 
 > “Code is not just lines — it’s logic, creativity, and vision woven into digital art.”  
 > — *Dammy*
 
 ---
 
-### ⚡ GitHub Stats  
+###  GitHub Stats  
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=codebro01&count_private=true&show_icons=true)](https://github.com/codebr01)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebro01&layout=compact&theme=radical)  
