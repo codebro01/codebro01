@@ -99,12 +99,12 @@ A futuristic, glassmorphic agency landing page.
 
 ##  My Core Strengths  
 
-- 🔍 **Problem Solver:** I enjoy debugging complex logic and finding clean, efficient solutions.  
-- 🧠 **Deep Learner:** I don’t just use tools — I understand how they work under the hood.  
-- 🧱 **Builder’s Mindset:** I create functional systems that can grow and scale.  
-- 🗣️ **Teacher at Heart:** I’ve guided **JSS 2 students**, helped organize activities, and marked exams — teaching strengthens my communication and logic.  
-- ⚙️ **System Thinker:** I connect front-end design flow with backend architecture seamlessly.  
-- 🌍 **Visionary:** I see tech as a bridge between creativity and human need — that’s why I’m aiming for **AI & robotics integration** in the long run.  
+-  **Problem Solver:** I enjoy debugging complex logic and finding clean, efficient solutions.  
+-  **Deep Learner:** I don’t just use tools — I understand how they work under the hood.  
+-  **Builder’s Mindset:** I create functional systems that can grow and scale.  
+-  **Teacher at Heart:** I’ve guided **JSS 2 students**, helped organize activities, and marked exams — teaching strengthens my communication and logic.  
+-  **System Thinker:** I connect front-end design flow with backend architecture seamlessly.  
+-  **Visionary:** I see tech as a bridge between creativity and human need — that’s why I’m aiming for **AI & robotics integration** in the long run.  
 
 ---
 
